@@ -1,5 +1,5 @@
 # CorruptX
-My virus
-``lua
+My virus and..
+``
 TEST ON A VIRTUAL MACHINE! THIS WILL FUCK YOUR SYSTEM32 AND YOUR COMPUTER!
 ``
